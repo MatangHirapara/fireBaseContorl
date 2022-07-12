@@ -1,0 +1,19 @@
+.firstDiv{
+  margin-left: 42%;
+  margin-top: 15%;
+}
+.secondDiv input{
+  padding: 1rem 1rem;
+  border-radius: 5px;
+  border: 2px solid black;
+  font-size: 1.1rem;
+}
+.firstDiv button{
+  padding: 0.7rem 1.3rem;
+  cursor: pointer;
+  background-color: transparent;
+  font-weight: bold;
+  border: 3px solid green;
+  border-radius: 5px;
+  font-size: 1.1rem;
+}
