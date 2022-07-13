@@ -1,0 +1,16 @@
+table tr th,td{
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
+.firstDiv{
+  margin-left: 42%;
+  margin-top: 15%;
+}
+form div input{
+  padding: 1rem 1rem;
+  border-radius: 5px;
+  border: 2px solid black;
+  font-size: 1.1rem;
+}
